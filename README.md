@@ -43,6 +43,7 @@ O que foi abordado nesse desafio:
 - Try Catch e Throw
 - Orientação a objetos;
 - Classes e muito mais.
+- API (Application Programming Interface) - GitHub
   
 </p>
 
