@@ -9,11 +9,9 @@
 
 <br>
 
-<h3 align="center">Você pode acessar o Website do projeto através do link: 
+<h2 align="center">Você pode acessar o Website do projeto através do link: 
 <a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
-</h3>
-
-<br>
+</h2>
 
 <p align="center">
   <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="100%">
