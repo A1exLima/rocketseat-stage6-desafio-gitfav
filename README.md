@@ -62,6 +62,8 @@ Esse projeto está sob a licença MIT.
 <a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
 </p>
 
+---
+
 <p align="center">Feito com  ♥  by Alex Lima</p>
 
 
