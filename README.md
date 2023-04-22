@@ -5,13 +5,10 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+  <a href="#-Deploy">Deploy</a>
 </p>
 
 <br>
-
-<h2 align="center">Você pode acessar o Website do projeto através do link: 
-<a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
-</h2>
 
 <p align="center">
   <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="100%">
@@ -59,8 +56,12 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://efficie
 
 Esse projeto está sob a licença MIT.
 
----
+## 💻 Deploy
 
+<h2 align="center">Você pode acessar o Website do projeto através do link: 
+<a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
+</h2>
+--
 <p align="center">Feito com  ♥  by Alex Lima</p>
 
 
