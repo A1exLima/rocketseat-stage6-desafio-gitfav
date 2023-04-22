@@ -9,9 +9,9 @@
 
 <br>
 
-<p align="center">Você pode acessar o Website do projeto através do link: 
+<h3 align="center">Você pode acessar o Website do projeto através do link: 
 <a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
-</p>
+</h3>
 
 <br>
 
