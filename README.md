@@ -1,14 +1,16 @@
 <h1 align="center"> Stage 06 - Javascript antes do framework - Desafio - Git Fav </h1>
 
-<p align="center">Você pode acessar o Website do projeto através do link: 
-<a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
-</p>
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
+</p>
+
+<br>
+
+<p align="center">Você pode acessar o Website do projeto através do link: 
+<a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
 </p>
 
 <br>
