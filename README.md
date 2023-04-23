@@ -1,3 +1,4 @@
+## .
 <h1 align="center"> Stage 06 - Javascript antes do framework - Desafio GitFav</h1>
 
 <p align="center">
@@ -74,5 +75,6 @@ Esse projeto está sob a licença MIT.
 
 <p align="center">Feito com  ♥  by Alex Lima</p>
 
+<a href="#-.">🔝</a>
 
-## top🔝
+
