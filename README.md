@@ -1,4 +1,4 @@
-<h1 align="center"> Stage 06 - Javascript antes do framework - Desafio - Git Fav </h1>
+<h1 align="center"> Stage 06 - Javascript antes do framework - Desafio GitFav</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
