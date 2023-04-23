@@ -11,11 +11,10 @@
 <br>
 
 <p align="center">
-  <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="70%">
+  <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="75%">
   </p>
-
   <p align="center">
-  <img alt="Avançando no JavaScript" src="./public/images/readme/3.jpg" width="70%">
+  <img alt="Avançando no JavaScript" src="./public/images/readme/3.jpg" width="75%">
   </p>  
 
 
@@ -27,6 +26,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Java Script
 - Git e Github
 - Figma
+
+<br>
+
 
 ## 💻 Projeto
 
@@ -45,19 +47,27 @@ O que foi abordado nesse desafio:
   
 </p>
 
+<br>
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://efficient-sloth-d85.notion.site/GitFav-f8ff1c18b23745c0b46cd8d61f74b596>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+<br>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+<br>
 
 ## 💻 Deploy
 
 <p>Você pode acessar o Website do projeto através do link: 
 <a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
 </p>
+
+<br>
 
 ---
 
