@@ -18,7 +18,7 @@
   </p>  
 
 
-## 🚀 Tecnologias
+## 👨‍💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 
-## 💻 Projeto
+## 📄 Projeto
 
 <p align="start"> 
 O que foi abordado nesse desafio:
@@ -49,13 +49,13 @@ O que foi abordado nesse desafio:
 
 <br>
 
-## 🔖 Layout
+## 📱 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://efficient-sloth-d85.notion.site/GitFav-f8ff1c18b23745c0b46cd8d61f74b596>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
-## :memo: Licença
+## 🪪 Licença
 
 Esse projeto está sob a licença MIT.
 
