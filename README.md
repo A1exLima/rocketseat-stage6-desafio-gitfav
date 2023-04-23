@@ -10,13 +10,16 @@
 
 <br>
 
-<p align="left">
+<div>
+  <p align="left">
   <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="50%">
-</p>
+  </p>
 
-<p align="right">
+  <p align="right">
   <img alt="Avançando no JavaScript" src="./public/images/readme/3.jpg" width="50%">
-</p>
+  </p>  
+</div>
+
 
 ## 🚀 Tecnologias
 
