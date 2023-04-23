@@ -10,11 +10,11 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="50%">
 </p>
 
-<p align="center">
+<p align="right">
   <img alt="Avançando no JavaScript" src="./public/images/readme/3.jpg" width="50%">
 </p>
 
