@@ -5,7 +5,7 @@
   <a href="#-projeto">📄 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">📱 Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">🪪 Licença</a></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licenças">☁️ Deploy</a></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Deploy">☁️ Deploy</a>
 </p>
 
 <br>
@@ -61,7 +61,7 @@ Esse projeto está sob a licença MIT.
 
 <br>
 
-## ☁️ licenças
+## ☁️ Deploy
 
 <p>Você pode acessar o Website do projeto através do link: 
 <a href= "https://a1exlima.github.io/rocketseat-stage6-desafio-gitfav/" target="_blank"> Clique aqui ⏯ </a>
