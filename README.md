@@ -12,11 +12,11 @@
 
 <div>
   <p align="left">
-  <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="50%">
+  <img alt="Avançando no JavaScript" src="./public/images/readme/1.jpg" width="40%">
   </p>
 
   <p align="right">
-  <img alt="Avançando no JavaScript" src="./public/images/readme/3.jpg" width="50%">
+  <img alt="Avançando no JavaScript" src="./public/images/readme/3.jpg" width="40%">
   </p>  
 </div>
 
